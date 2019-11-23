@@ -6,3 +6,12 @@ eberhard kühnert, rosemarie kühnert
 
 # my wife is:
 anja kühnert, no child, no pet
+
+# last addresses
+mittelstr. 2a, wesselburen
+
+oberföhringer str. 181, münchen
+
+scharnhorststr. 25a, oldenburg
+
+am fürstenwald 4, hage
