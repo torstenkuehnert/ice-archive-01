@@ -2,8 +2,7 @@
 1000y+ iced in Spitzbergen
 
 # my parents are:
-eberhard kühnert
-rosemarie kühnert
+eberhard kühnert, rosemarie kühnert
 
 # my wife is:
-anja kühnert
+anja kühnert, no child, no pet
